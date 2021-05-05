@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:MarcoDottor/ingswAM2021-Dottor-Corti-Cutrupi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/S0NN1/ing-sw-2020-piemonti-pirovano-sonnino" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mvv12\IdeaProjects\Project" />
