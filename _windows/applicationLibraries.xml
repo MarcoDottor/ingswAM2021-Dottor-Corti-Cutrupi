@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="mysql-connector-java-8.0.19">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/uni/tiw/TIW-example-message-JSTL/WebContent/WEB-INF/lib/mysql-connector-java-8.0.19.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
