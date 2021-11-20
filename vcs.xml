@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/Anuken/Mindustry" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/simonebraga/middleware_teamwork_akka" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mvv12\IdeaProjects\Project" />
