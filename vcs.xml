@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/margara/middleware_kafka_tutorial" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/margara/middleware_spark_tutorial" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mvv12\IdeaProjects\Project" />
