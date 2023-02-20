@@ -1,7 +1,8 @@
 # Masters Of Renaissance - Project by Dottor, Corti, Cutrupi
 Masters of Renaissance is the final test of "Software Engineering", course of "Computer Science Engineering" held at Politecnico di Milano (2020/2021).
 
-Teacher: Alessandro Margara
+Teacher: *Alessandro Margara*
+Final Score: **30L/30**
 
 # Project specification
 The project consists of a Java version of the board game Masters of Renaissance, made by Cranio.
